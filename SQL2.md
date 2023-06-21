@@ -1,10 +1,10 @@
-# Budget and Expense Tracker System v1.0 has SQL injection
+# Game Result Matrix System v1.0 has stored cross-site scripting
 
-BUG_Author：wucwu1
+BUG_Author: zhangyf
 
-Website source address: https://www.sourcecodester.com/php/14893/budget-and-expense-tracker-system-php-free-source-code.html
+Website source code address: https://www.sourcecodester.com/php/14022/game-result-matrix.html
 
-Vulnerability File: /expense_budget/admin/budget/manage_budget.php
+Vulnerability File: /dipam/athlete-profile.php
 
 GET parameter 'id' exists SQL injection vulnerability
 
