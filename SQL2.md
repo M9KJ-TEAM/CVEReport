@@ -1,4 +1,4 @@
-# Game Result Matrix System v1.0 has stored cross-site scripting
+# Game Result Matrix System v1.0 has SQL injection vulnerability
 
 BUG_Author: zhangyf
 
