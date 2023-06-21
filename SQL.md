@@ -1,8 +1,4 @@
-# Online School Fees System v1.0 has SQL injection
-
 BUG_Author：zhangyf
-
-Website source address: https://www.sourcecodester.com/php/11708/online-school-fees-system.html
 
 Vulnerability File: /paysystem/ajx.php
 
