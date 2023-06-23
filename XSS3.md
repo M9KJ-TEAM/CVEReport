@@ -1,8 +1,4 @@
-# Game Result Matrix System v1.0 has stored cross-site scripting
-
 BUG_Author: zhangyf
-
-Website source code address: https://www.sourcecodester.com/php/14022/game-result-matrix.html
 
 Vulnerability File: /dipam/save-delegates.php
 
