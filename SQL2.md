@@ -1,8 +1,4 @@
-# Game Result Matrix System v1.0 has SQL injection vulnerability
-
 BUG_Author: zhangyf
-
-Website source code address: https://www.sourcecodester.com/php/14022/game-result-matrix.html
 
 Vulnerability File: /dipam/athlete-profile.php
 
