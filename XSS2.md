@@ -1,8 +1,4 @@
-# Online School Fees System v1.0 has reflected cross-site scripting
-
 BUG_Author: zhangyf
-
-Website source code address: https://www.sourcecodester.com/php/11708/online-school-fees-system.html
 
 Vulnerability File: /paysystem/datatable.php
 
